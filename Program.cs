@@ -20,12 +20,8 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.UseEndpoints(
-    endpoints => {
-        endpoints.MapHub<ChatHub>("/chatHub");
-        endpoints.MapHub<DrawDotHub>("/drawDotHub");
-    }
-);
+app.MapHub<ChatHub>("/chatHub");
+app.MapHub<DrawDotHub>("/drawDotHub");
 
 
 app.MapRazorPages();

@@ -2,8 +2,8 @@
 
 var connection = new signalR.HubConnectionBuilder().withUrl("/drawDotHub").build();
 
-connection.on("updateDot", function (x, y) {
-    drawDot(x, y, 8);
+connection.on("updateDot", function (x, y, userColor) {
+    drawDot(x, y, 8, userColor);
 });
 
 connection.on("clearCanvas", function () {
@@ -28,20 +28,14 @@ var canvas, ctx;
 var mouseX, mouseY, mouseDown = 0;
 // Draws a dot at a specific position on the supplied canvas name
 // Parameters are: A canvas context, the x position, the y position, the size of the dot
-function drawDot(x, y, size) {
-    // Let's use black by setting RGB values to 0, and 255 alpha (completely opaque)
-    var r = 0;
-    var g = 0;
-    var b = 0;
-    var a = 255;
-    // Select a fill style
-    ctx.fillStyle = "rgba(" + r + "," + g + "," + b + "," + (a / 255) + ")";
-    // Draw a filled circle
+function drawDot(x, y, size, userColor) {
+    ctx.fillStyle = userColor; // Set the user-specific color
     ctx.beginPath();
     ctx.arc(x, y, size, 0, Math.PI * 2, true);
     ctx.closePath();
     ctx.fill();
 }
+
 
 // Keep track of the mouse button being pressed and draw a dot at current location
 function sketchpad_mouseDown() {

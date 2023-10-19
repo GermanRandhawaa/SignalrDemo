@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SignalrChat
 build_property.RootNamespace = SignalrChat
-build_property.ProjectDir = /Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/
+build_property.ProjectDir = /Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat
+build_property.MSBuildProjectDirectory = /Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/Draw.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/Draw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRHJhdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/Error.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/Index.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/_ViewImports.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/_ViewStart.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/Pages/Shared/_Layout.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tc72y697yb

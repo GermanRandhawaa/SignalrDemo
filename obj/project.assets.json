@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/SignalrChat.csproj",
+      "projectUniqueName": "/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/SignalrChat.csproj",
       "projectName": "SignalrChat",
-      "projectPath": "/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/SignalrChat.csproj",
+      "projectPath": "/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/SignalrChat.csproj",
       "packagesPath": "/Users/germanrandhawa/.nuget/packages/",
-      "outputPath": "/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrChat/obj/",
+      "outputPath": "/Users/germanrandhawa/x/4796 Microsoft .net/week7/SignalrDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/germanrandhawa/.nuget/NuGet/NuGet.Config"
